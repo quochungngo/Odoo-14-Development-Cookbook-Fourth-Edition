@@ -11,4 +11,3 @@ class LibraryBook(models.Model):
     author_ids = fields.Many2many('res.partner', string='Authors')
     is_public = fields.Boolean(groups='my_library.group_library_librarian')
     private_notes = fields.Text(groups='my_library.group_library_librarian')
-

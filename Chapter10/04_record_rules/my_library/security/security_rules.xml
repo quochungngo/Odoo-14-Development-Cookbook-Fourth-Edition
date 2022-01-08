@@ -4,9 +4,11 @@
         <field name="name">Library: see only own books</field>
         <field name="model_id" ref="model_library_book"/>
         <field name="groups" eval="[(4, ref('my_library.group_library_user'))]"/>
-        <field name="domain_force">
-            [('is_public', '=', True)]
-        </field>
+        <field name="domain_force">[('is_public', '=', True)]</field>
+        <field name="perm_unlink" eval="True"/>
+        <field name="perm_write" eval="True"/>
+        <field name="perm_read" eval="True"/>
+        <field name="perm_create" eval="True"/>
     </record>
     <record model="ir.rule" id="library_book_all_rule">
         <field name="name">Library: see all books</field>

@@ -1,3 +1,6 @@
+
+
+
 # Odoo 14 Development Cookbook - Fourth Edition
 
 <a href="https://www.packtpub.com/product/odoo-14-development-cookbook-fourth-edition/9781800200319?utm_source=github&utm_medium=repository&utm_campaign=9781800200319"><img src="https://static.packt-cdn.com/products/9781800200319/cover/smaller" alt="Odoo 14 Development Cookbook - Fourth Edition" height="256px" align="right"></a>
@@ -69,3 +72,7 @@ He has been working with Odoo (formerly OpenERP) since 2010, is an active contri
 [Odoo 11 Development Cookbook - Second Edition](https://www.packtpub.com/application-development/odoo-11-development-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788471817)
 
 [Odoo Development Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/odoo-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785883644)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800200319">https://packt.link/free-ebook/9781800200319 </a> </p>
